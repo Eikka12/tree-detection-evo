@@ -1,5 +1,5 @@
 ﻿# Evo tree detection
-This document presents a summary of how the Evo tree map was created. The majority of the processing steps have been replicated from [Mäyrä et al. (2021)](https://doi.org/10.1016/j.rse.2021.112322) and the corresponding [GitHub repository](https://github.com/mayrajeo/tree-detection-evo).
+This repository contains the code for creating a new Evo tree map, which includes dead trees as a new species class. A summary of how the tree map was created is presented below. The majority of the processing steps have been replicated from [Mäyrä et al. (2021)](https://doi.org/10.1016/j.rse.2021.112322) and the corresponding [GitHub repository](https://github.com/mayrajeo/tree-detection-evo).
 
 ## Datasets
 - **Hyperspectral aerial images** with a resolution of 0.5 m for VNIR channels and 1 m for SWIR channels
